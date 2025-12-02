@@ -147,7 +147,7 @@ El proyecto utiliza una arquitectura de **microservicios containerizados** con D
 ## Estructura del Proyecto
 
 ```
-TCS2025B-5/
+TC_final/
 ├── Mini_test/                    # Backend Django
 │   ├── minitest/                 # Configuración del proyecto
 │   ├── usuarios/                 # App de autenticación
@@ -188,7 +188,7 @@ TCS2025B-5/
 1. **Clonar el repositorio**
 ```bash
 git clone <repository-url>
-cd TCS2025B-5
+cd TC_final
 ```
 
 2. **Levantar los servicios con Docker Compose**
