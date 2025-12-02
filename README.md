@@ -187,7 +187,7 @@ TC_final/
 
 1. **Clonar el repositorio**
 ```bash
-git clone <repository-url>
+git clone https://github.com/EnyelbertAnderson/TC_final.git
 cd TC_final
 ```
 
